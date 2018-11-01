@@ -89,6 +89,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+pyladiesSJC-site/
 
 # Spyder project settings
 .spyderproject
